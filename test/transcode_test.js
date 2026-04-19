@@ -1,7 +1,7 @@
 'use strict'
 
+const { transcode, transcodeBE, transcodeLE } = require('../lib/transcode')
 const { assert } = require('chai')
-const { transcode, transcodeBE, transcodeLE } = require('../lib/codec/transcode')
 
 const u8 = (...args) => new Uint8Array(...args)
 
