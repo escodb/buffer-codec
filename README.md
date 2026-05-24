@@ -1,4 +1,4 @@
-# buffer-codec
+# @escodb/buffer-codec
 
 This package provides a set of functions for encoding and decoding typed arrays
 to/from various base encodings (c.f. [RFC
