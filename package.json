@@ -1,6 +1,20 @@
 {
   "name": "@escodb/buffer-codec",
+  "version": "0.1.0",
+  "description": "Convert typed arrays to/from hex, base32, base64, and other base representations",
+  "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
+  "keywords": [
+    "typed array",
+    "buffer",
+    "binary",
+    "hex",
+    "base32",
+    "base64"
+  ],
   "license": "Apache-2.0",
+  "homepage": "https://github.com/escodb/buffer-codec",
+  "repository": "github:escodb/buffer-codec",
+  "bugs": "https://github.com/escodb/buffer-codec/issues",
   "files": [
     "lib"
   ],
